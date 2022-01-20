@@ -1,0 +1,26 @@
+
+
+GET http://localhost:9000/notification
+
+###
+
+
+GET http://localhost:9000/notification/1
+
+// get single music
+###
+
+POST http://localhost:9000/notification
+Content-Type: application/json
+
+{
+    "email":"deepu iss",
+    "title":"hello",
+    "body":"kljflskdjf"
+}
+
+
+
+###
+
+DELETE http://localhost:9000/notification/2
