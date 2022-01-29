@@ -1,1 +1,1 @@
-# DeepuApi
+# Static Api
