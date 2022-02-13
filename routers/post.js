@@ -5,12 +5,12 @@ const posts = [
     {
         id:1,
         title:'welcome 2022',
-        content:"best of year"
+        content:"happy new year"
     },
     {
         id:2,
-        title:'deepu ki barat',
-        content:"2022 best comady movie deepu ki barat"
+        title:'hello',
+        content:"hello everyone"
     },
 ]
 
