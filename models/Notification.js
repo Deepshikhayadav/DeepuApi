@@ -15,7 +15,7 @@ let Notification = [
     {
         id:3,
         email:"deepuyadav@gmail.com",
-        title:" Amit assing a task ",
+        title:" Amit assinged a task ",
         body:"Add Vehicle map and markers"
     },
 ]
