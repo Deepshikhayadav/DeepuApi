@@ -4,7 +4,7 @@ let Notification = [
         id:1,
         email:"deepuyadav@gmail.com",
         title:"Good Job",
-        body:"Nice Work miss deepu"
+        body:"Nice Work deepu"
     },
     {
         id:2,
