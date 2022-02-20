@@ -1,1 +1,1 @@
-# Static Api
+### This is static api for personal use.
